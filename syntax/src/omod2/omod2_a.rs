@@ -1,0 +1,1 @@
+pub const MESSAGE: &str = "This is mod2_a";
